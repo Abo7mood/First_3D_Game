@@ -27,3 +27,14 @@ This is a **3D game project** inspired by the **Solus game**. It is designed to 
 
    ```bash
    git clone https://github.com/Abo7mood/3D_Game.git
+Open the project in Unity.
+
+Follow the Unity setup instructions to get started.
+
+Enjoy playing the game! 😎
+
+Contributing 🤝:
+Feel free to fork the project and submit pull requests. If you find any bugs 🐞 or have suggestions for new features 💡, please create an issue.
+
+License 📜:
+This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
