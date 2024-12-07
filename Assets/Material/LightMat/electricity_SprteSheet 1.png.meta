@@ -1,0 +1,2921 @@
+fileFormatVersion: 2
+guid: 60e63f4d93b012a43b8f33ceb3faf518
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -361541257823262492
+    second: electricity_SprteSheet 1_0
+  - first:
+      213: 8800030200488647563
+    second: electricity_SprteSheet 1_1
+  - first:
+      213: -8142110117273461938
+    second: electricity_SprteSheet 1_2
+  - first:
+      213: -5020754178038444480
+    second: electricity_SprteSheet 1_3
+  - first:
+      213: 4097894488458764178
+    second: electricity_SprteSheet 1_4
+  - first:
+      213: 4484350375645957871
+    second: electricity_SprteSheet 1_5
+  - first:
+      213: -498419847826658836
+    second: electricity_SprteSheet 1_6
+  - first:
+      213: 6289730128008424633
+    second: electricity_SprteSheet 1_0
+  - first:
+      213: -8299392615516907793
+    second: electricity_SprteSheet 1_1
+  - first:
+      213: -4310189265673440349
+    second: electricity_SprteSheet 1_2
+  - first:
+      213: -3939579192131307522
+    second: electricity_SprteSheet 1_3
+  - first:
+      213: -7467496407420387787
+    second: electricity_SprteSheet 1_4
+  - first:
+      213: 2976383655185146650
+    second: electricity_SprteSheet 1_5
+  - first:
+      213: -799181296518439205
+    second: electricity_SprteSheet 1_6
+  - first:
+      213: -370410386649985438
+    second: electricity_SprteSheet 1_7
+  - first:
+      213: 7713063726504006481
+    second: electricity_SprteSheet 1_8
+  - first:
+      213: -697237259599067361
+    second: electricity_SprteSheet 1_9
+  - first:
+      213: 6263955334137716511
+    second: electricity_SprteSheet 1_10
+  - first:
+      213: 1416529523477404402
+    second: electricity_SprteSheet 1_11
+  - first:
+      213: -6987717297747845386
+    second: electricity_SprteSheet 1_12
+  - first:
+      213: -6594136934504354213
+    second: electricity_SprteSheet 1_13
+  - first:
+      213: 6013907891136110777
+    second: electricity_SprteSheet 1_14
+  - first:
+      213: -3302882206680649604
+    second: electricity_SprteSheet 1_15
+  - first:
+      213: 7435472209077444119
+    second: electricity_SprteSheet 1_16
+  - first:
+      213: 213884231132992586
+    second: electricity_SprteSheet 1_17
+  - first:
+      213: 1261560216981349252
+    second: electricity_SprteSheet 1_18
+  - first:
+      213: -3318834783040221285
+    second: electricity_SprteSheet 1_19
+  - first:
+      213: -336673586716882115
+    second: electricity_SprteSheet 1_20
+  - first:
+      213: 3184437745204657886
+    second: electricity_SprteSheet 1_21
+  - first:
+      213: 511567632110311403
+    second: electricity_SprteSheet 1_22
+  - first:
+      213: 2754195429398828148
+    second: electricity_SprteSheet 1_23
+  - first:
+      213: 5536138056359957640
+    second: electricity_SprteSheet 1_24
+  - first:
+      213: -372138357155557679
+    second: electricity_SprteSheet 1_25
+  - first:
+      213: 7481257960665187855
+    second: electricity_SprteSheet 1_26
+  - first:
+      213: -3955512814914033795
+    second: electricity_SprteSheet 1_27
+  - first:
+      213: -3889742041651918616
+    second: electricity_SprteSheet 1_28
+  - first:
+      213: -8700162555046826888
+    second: electricity_SprteSheet 1_29
+  - first:
+      213: -8968713058501677605
+    second: electricity_SprteSheet 1_30
+  - first:
+      213: 7236928917977579767
+    second: electricity_SprteSheet 1_31
+  - first:
+      213: 1960768393082310908
+    second: electricity_SprteSheet 1_32
+  - first:
+      213: 48075362110497503
+    second: electricity_SprteSheet 1_33
+  - first:
+      213: -709028224095791377
+    second: electricity_SprteSheet 1_34
+  - first:
+      213: 1948387702130540303
+    second: electricity_SprteSheet 1_35
+  - first:
+      213: 8148373892326106050
+    second: electricity_SprteSheet 1_36
+  - first:
+      213: 1124559936359051325
+    second: electricity_SprteSheet 1_37
+  - first:
+      213: -7677138326212222620
+    second: electricity_SprteSheet 1_38
+  - first:
+      213: -6279332311424776436
+    second: electricity_SprteSheet 1_39
+  - first:
+      213: 2889934525994617494
+    second: electricity_SprteSheet 1_40
+  - first:
+      213: -7053704845713815510
+    second: electricity_SprteSheet 1_41
+  - first:
+      213: 756880444437993016
+    second: electricity_SprteSheet 1_42
+  - first:
+      213: -8414270951163410950
+    second: electricity_SprteSheet 1_43
+  - first:
+      213: -7415811409609173657
+    second: electricity_SprteSheet 1_44
+  - first:
+      213: 1216056587282533612
+    second: electricity_SprteSheet 1_45
+  - first:
+      213: 3541561515861462492
+    second: electricity_SprteSheet 1_46
+  - first:
+      213: -6449376634781261582
+    second: electricity_SprteSheet 1_47
+  - first:
+      213: -3003828049434910363
+    second: electricity_SprteSheet 1_48
+  - first:
+      213: -3497121140488001698
+    second: electricity_SprteSheet 1_49
+  - first:
+      213: 7105751433165147266
+    second: electricity_SprteSheet 1_50
+  - first:
+      213: 5307693880533462591
+    second: electricity_SprteSheet 1_51
+  - first:
+      213: -4444766072879318601
+    second: electricity_SprteSheet 1_52
+  - first:
+      213: -2945782889869422460
+    second: electricity_SprteSheet 1_53
+  - first:
+      213: 8387078207477083828
+    second: electricity_SprteSheet 1_54
+  - first:
+      213: 417483802947329508
+    second: electricity_SprteSheet 1_55
+  - first:
+      213: 8768646187713624990
+    second: electricity_SprteSheet 1_56
+  - first:
+      213: 2716996541123006888
+    second: electricity_SprteSheet 1_57
+  - first:
+      213: 888665231295024831
+    second: electricity_SprteSheet 1_58
+  - first:
+      213: -7168047389426826667
+    second: electricity_SprteSheet 1_59
+  - first:
+      213: -210382585305733034
+    second: electricity_SprteSheet 1_60
+  - first:
+      213: 720028887528951450
+    second: electricity_SprteSheet 1_61
+  - first:
+      213: -3829675343270132244
+    second: electricity_SprteSheet 1_62
+  - first:
+      213: 687286800223239885
+    second: electricity_SprteSheet 1_63
+  - first:
+      213: -6685082315942337223
+    second: electricity_SprteSheet 1_64
+  - first:
+      213: 8134950671602208225
+    second: electricity_SprteSheet 1_65
+  - first:
+      213: -4868271213857628132
+    second: electricity_SprteSheet 1_66
+  - first:
+      213: -5785649617067352458
+    second: electricity_SprteSheet 1_67
+  - first:
+      213: -8150265298327530076
+    second: electricity_SprteSheet 1_68
+  - first:
+      213: -6597660810103893206
+    second: electricity_SprteSheet 1_69
+  - first:
+      213: 133196679327293582
+    second: electricity_SprteSheet 1_70
+  - first:
+      213: 9130577371734308334
+    second: electricity_SprteSheet 1_71
+  - first:
+      213: -4727458359816095862
+    second: electricity_SprteSheet 1_72
+  - first:
+      213: -382785893006224036
+    second: electricity_SprteSheet 1_73
+  - first:
+      213: -8917413561765705996
+    second: electricity_SprteSheet 1_74
+  - first:
+      213: 5169052272980334385
+    second: electricity_SprteSheet 1_75
+  - first:
+      213: -4186498774404504916
+    second: electricity_SprteSheet 1_76
+  - first:
+      213: 7428489057118686495
+    second: electricity_SprteSheet 1_77
+  - first:
+      213: 8845142815105096352
+    second: electricity_SprteSheet 1_78
+  - first:
+      213: 8946950025112415293
+    second: electricity_SprteSheet 1_79
+  - first:
+      213: -4596276552973693022
+    second: electricity_SprteSheet 1_80
+  - first:
+      213: -4198165186805437758
+    second: electricity_SprteSheet 1_81
+  - first:
+      213: -6923844583057130360
+    second: electricity_SprteSheet 1_82
+  - first:
+      213: -2918774656688071500
+    second: electricity_SprteSheet 1_83
+  - first:
+      213: 8377115630345042553
+    second: electricity_SprteSheet 1_84
+  - first:
+      213: 581087393237589916
+    second: electricity_SprteSheet 1_85
+  - first:
+      213: -6563886978835435038
+    second: electricity_SprteSheet 1_86
+  - first:
+      213: 2955837943004129844
+    second: electricity_SprteSheet 1_87
+  - first:
+      213: -6291908096430571898
+    second: electricity_SprteSheet 1_88
+  - first:
+      213: 8451734936835232736
+    second: electricity_SprteSheet 1_89
+  - first:
+      213: 6035791874792270903
+    second: electricity_SprteSheet 1_90
+  - first:
+      213: 8058817090257388066
+    second: electricity_SprteSheet 1_91
+  - first:
+      213: 2961405564927299637
+    second: electricity_SprteSheet 1_92
+  - first:
+      213: 4649065999535097855
+    second: electricity_SprteSheet 1_93
+  - first:
+      213: 1692625117848668179
+    second: electricity_SprteSheet 1_94
+  - first:
+      213: -2910990604495817857
+    second: electricity_SprteSheet 1_95
+  - first:
+      213: -3886556805045454819
+    second: electricity_SprteSheet 1_96
+  - first:
+      213: 2397022294604560735
+    second: electricity_SprteSheet 1_97
+  - first:
+      213: -6841822646862453839
+    second: electricity_SprteSheet 1_98
+  - first:
+      213: -7739415711388907484
+    second: electricity_SprteSheet 1_99
+  - first:
+      213: -3343965044909363644
+    second: electricity_SprteSheet 1_100
+  - first:
+      213: -1474181335399067220
+    second: electricity_SprteSheet 1_101
+  - first:
+      213: 8102517372084742655
+    second: electricity_SprteSheet 1_102
+  - first:
+      213: 3962889684772750791
+    second: electricity_SprteSheet 1_103
+  - first:
+      213: 4167722782763008970
+    second: electricity_SprteSheet 1_104
+  - first:
+      213: -1124649348661088009
+    second: electricity_SprteSheet 1_105
+  - first:
+      213: -763917654995394540
+    second: electricity_SprteSheet 1_106
+  - first:
+      213: -9184639739044854383
+    second: electricity_SprteSheet 1_107
+  - first:
+      213: 3571831104096041512
+    second: electricity_SprteSheet 1_108
+  - first:
+      213: 1019374114438609641
+    second: electricity_SprteSheet 1_109
+  - first:
+      213: 2370101487466701246
+    second: electricity_SprteSheet 1_110
+  - first:
+      213: 3006025135049184753
+    second: electricity_SprteSheet 1_111
+  - first:
+      213: -8157212091210768946
+    second: electricity_SprteSheet 1_112
+  - first:
+      213: 303378252411084589
+    second: electricity_SprteSheet 1_113
+  - first:
+      213: 8074865141703197949
+    second: electricity_SprteSheet 1_114
+  - first:
+      213: 2969546967110564218
+    second: electricity_SprteSheet 1_115
+  - first:
+      213: 7217338111237472604
+    second: electricity_SprteSheet 1_116
+  - first:
+      213: -6484968955669029258
+    second: electricity_SprteSheet 1_117
+  - first:
+      213: 6222599665750432035
+    second: electricity_SprteSheet 1_118
+  - first:
+      213: 785323589532591602
+    second: electricity_SprteSheet 1_119
+  - first:
+      213: -8133887338424803725
+    second: electricity_SprteSheet 1_120
+  - first:
+      213: -2476027168315720891
+    second: electricity_SprteSheet 1_121
+  - first:
+      213: -3536328468362241701
+    second: electricity_SprteSheet 1_122
+  - first:
+      213: 5831324328999495984
+    second: electricity_SprteSheet 1_123
+  - first:
+      213: 8461854086797301983
+    second: electricity_SprteSheet 1_124
+  - first:
+      213: -1707139210072364824
+    second: electricity_SprteSheet 1_125
+  - first:
+      213: -1156073408135084391
+    second: electricity_SprteSheet 1_126
+  - first:
+      213: -7301293366520362260
+    second: electricity_SprteSheet 1_127
+  - first:
+      213: -675428003472227838
+    second: electricity_SprteSheet 1_128
+  - first:
+      213: -6859330889376952544
+    second: electricity_SprteSheet 1_129
+  - first:
+      213: 6433372897941579092
+    second: electricity_SprteSheet 1_130
+  - first:
+      213: 3272834965373251061
+    second: electricity_SprteSheet 1_131
+  - first:
+      213: 451438536048141372
+    second: electricity_SprteSheet 1_132
+  - first:
+      213: 5436035592741591870
+    second: electricity_SprteSheet 1_133
+  - first:
+      213: -5254866458671912337
+    second: electricity_SprteSheet 1_134
+  - first:
+      213: -3719990054750164845
+    second: electricity_SprteSheet 1_135
+  - first:
+      213: -3098789811391731406
+    second: electricity_SprteSheet 1_136
+  - first:
+      213: -5974981678752837708
+    second: electricity_SprteSheet 1_137
+  - first:
+      213: -1880920366526450037
+    second: electricity_SprteSheet 1_138
+  - first:
+      213: 8866183653965941410
+    second: electricity_SprteSheet 1_139
+  - first:
+      213: -3660337960378915063
+    second: electricity_SprteSheet 1_140
+  - first:
+      213: 8996079706824068788
+    second: electricity_SprteSheet 1_141
+  - first:
+      213: -2409187981323795003
+    second: electricity_SprteSheet 1_142
+  - first:
+      213: 9188882751460087771
+    second: electricity_SprteSheet 1_143
+  - first:
+      213: 4760207903162259356
+    second: electricity_SprteSheet 1_144
+  - first:
+      213: -917781564051359446
+    second: electricity_SprteSheet 1_145
+  - first:
+      213: 6560274613194084092
+    second: electricity_SprteSheet 1_146
+  - first:
+      213: -4140849394390895363
+    second: electricity_SprteSheet 1_147
+  - first:
+      213: 5373595775718331115
+    second: electricity_SprteSheet 1_148
+  - first:
+      213: -8185730192468958409
+    second: electricity_SprteSheet 1_149
+  - first:
+      213: 439598199849956748
+    second: electricity_SprteSheet 1_150
+  - first:
+      213: -6036016800278626290
+    second: electricity_SprteSheet 1_151
+  - first:
+      213: 7156944344904472569
+    second: electricity_SprteSheet 1_152
+  - first:
+      213: -8752110233040004410
+    second: electricity_SprteSheet 1_153
+  - first:
+      213: 7264450206838648689
+    second: electricity_SprteSheet 1_154
+  - first:
+      213: -6324025007507462880
+    second: electricity_SprteSheet 1_155
+  - first:
+      213: -2827265480844279958
+    second: electricity_SprteSheet 1_156
+  - first:
+      213: 3649356124742812728
+    second: electricity_SprteSheet 1_157
+  - first:
+      213: 4975982551786548004
+    second: electricity_SprteSheet 1_158
+  - first:
+      213: -152697608473874242
+    second: electricity_SprteSheet 1_159
+  - first:
+      213: -2629517997021866692
+    second: electricity_SprteSheet 1_160
+  - first:
+      213: -1923524365917262287
+    second: electricity_SprteSheet 1_161
+  - first:
+      213: 1582939915651820032
+    second: electricity_SprteSheet 1_162
+  - first:
+      213: -9088671953279400208
+    second: electricity_SprteSheet 1_163
+  - first:
+      213: -6145958313683034789
+    second: electricity_SprteSheet 1_164
+  - first:
+      213: -3761710348089027151
+    second: electricity_SprteSheet 1_165
+  - first:
+      213: -3565708516975684901
+    second: electricity_SprteSheet 1_166
+  - first:
+      213: -5754170032844030448
+    second: electricity_SprteSheet 1_167
+  - first:
+      213: 4406135578767671533
+    second: electricity_SprteSheet 1_168
+  - first:
+      213: -3576368191219251387
+    second: electricity_SprteSheet 1_169
+  - first:
+      213: 4854315239969658947
+    second: electricity_SprteSheet 1_170
+  - first:
+      213: -4594091101090272727
+    second: electricity_SprteSheet 1_171
+  - first:
+      213: -3864649857384397444
+    second: electricity_SprteSheet 1_172
+  - first:
+      213: -3962080499531823841
+    second: electricity_SprteSheet 1_173
+  - first:
+      213: 6174129791108848826
+    second: electricity_SprteSheet 1_174
+  - first:
+      213: 8012956980615609330
+    second: electricity_SprteSheet 1_175
+  - first:
+      213: -8702969123180354687
+    second: electricity_SprteSheet 1_176
+  - first:
+      213: 2656845550317914659
+    second: electricity_SprteSheet 1_177
+  - first:
+      213: 8900340829454009557
+    second: electricity_SprteSheet 1_178
+  - first:
+      213: 3812379346213156002
+    second: electricity_SprteSheet 1_179
+  - first:
+      213: 2403441747885302995
+    second: electricity_SprteSheet 1_180
+  - first:
+      213: -7717811095227528477
+    second: electricity_SprteSheet 1_181
+  - first:
+      213: 4765398407218029653
+    second: electricity_SprteSheet 1_182
+  - first:
+      213: -627376369511065591
+    second: electricity_SprteSheet 1_183
+  - first:
+      213: 2051864202220588141
+    second: electricity_SprteSheet 1_184
+  - first:
+      213: -425941946739912603
+    second: electricity_SprteSheet 1_185
+  - first:
+      213: -6564332806818953273
+    second: electricity_SprteSheet 1_186
+  - first:
+      213: 6652426976750347909
+    second: electricity_SprteSheet 1_187
+  - first:
+      213: 5781271719537436965
+    second: electricity_SprteSheet 1_188
+  - first:
+      213: 1081617532119780569
+    second: electricity_SprteSheet 1_189
+  - first:
+      213: 6689742090519409579
+    second: electricity_SprteSheet 1_190
+  - first:
+      213: 4587137903830194047
+    second: electricity_SprteSheet 1_191
+  - first:
+      213: 5488218914613636862
+    second: electricity_SprteSheet 1_192
+  - first:
+      213: 7815772582630733394
+    second: electricity_SprteSheet 1_193
+  - first:
+      213: -6579843299843010958
+    second: electricity_SprteSheet 1_194
+  - first:
+      213: -1760555395471058849
+    second: electricity_SprteSheet 1_195
+  - first:
+      213: 413905551207981649
+    second: electricity_SprteSheet 1_196
+  - first:
+      213: -8296599817342246498
+    second: electricity_SprteSheet 1_197
+  - first:
+      213: 1870746430346748897
+    second: electricity_SprteSheet 1_198
+  - first:
+      213: 6566049708751286048
+    second: electricity_SprteSheet 1_199
+  - first:
+      213: -264480993914758608
+    second: electricity_SprteSheet 1_200
+  - first:
+      213: 3576645016978148757
+    second: electricity_SprteSheet 1_201
+  - first:
+      213: 3286813395875310280
+    second: electricity_SprteSheet 1_202
+  - first:
+      213: -385042626658489936
+    second: electricity_SprteSheet 1_203
+  - first:
+      213: 5021171655668972545
+    second: electricity_SprteSheet 1_204
+  - first:
+      213: 2912284113099978002
+    second: electricity_SprteSheet 1_205
+  - first:
+      213: 7471523259637081468
+    second: electricity_SprteSheet 1_206
+  - first:
+      213: 8565725930903630695
+    second: electricity_SprteSheet 1_207
+  - first:
+      213: -1363174785334457654
+    second: electricity_SprteSheet 1_208
+  - first:
+      213: 2750276999273431937
+    second: electricity_SprteSheet 1_209
+  - first:
+      213: 6689204595818651488
+    second: electricity_SprteSheet 1_210
+  - first:
+      213: 894307183987259275
+    second: electricity_SprteSheet 1_211
+  - first:
+      213: 4404188265852354763
+    second: electricity_SprteSheet 1_212
+  - first:
+      213: 8182172075435570322
+    second: electricity_SprteSheet 1_213
+  - first:
+      213: 8883486496295290470
+    second: electricity_SprteSheet 1_214
+  - first:
+      213: -4788631457618248371
+    second: electricity_SprteSheet 1_215
+  - first:
+      213: -981140441016408510
+    second: electricity_SprteSheet 1_216
+  - first:
+      213: -5593967812044446877
+    second: electricity_SprteSheet 1_217
+  - first:
+      213: -1975574500367399607
+    second: electricity_SprteSheet 1_218
+  - first:
+      213: 1842937401214214928
+    second: electricity_SprteSheet 1_219
+  - first:
+      213: -7587480195814266194
+    second: electricity_SprteSheet 1_220
+  - first:
+      213: 3843734485109714004
+    second: electricity_SprteSheet 1_221
+  - first:
+      213: 8324746124381932109
+    second: electricity_SprteSheet 1_222
+  - first:
+      213: -2650246655239700719
+    second: electricity_SprteSheet 1_223
+  - first:
+      213: 6147277461752124170
+    second: electricity_SprteSheet 1_224
+  - first:
+      213: 1121089532287461293
+    second: electricity_SprteSheet 1_225
+  - first:
+      213: -7624203751245069775
+    second: electricity_SprteSheet 1_226
+  - first:
+      213: 3991508526485934834
+    second: electricity_SprteSheet 1_227
+  - first:
+      213: 7341691897409054299
+    second: electricity_SprteSheet 1_228
+  - first:
+      213: 2510483794752533524
+    second: electricity_SprteSheet 1_229
+  - first:
+      213: -1795236307855260401
+    second: electricity_SprteSheet 1_230
+  - first:
+      213: 5028206661716125432
+    second: electricity_SprteSheet 1_231
+  - first:
+      213: 9124290687777780464
+    second: electricity_SprteSheet 1_232
+  - first:
+      213: 891481651517919759
+    second: electricity_SprteSheet 1_233
+  - first:
+      213: -1585980971495902224
+    second: electricity_SprteSheet 1_234
+  - first:
+      213: 4663509660211171734
+    second: electricity_SprteSheet 1_235
+  - first:
+      213: 7202328993039077050
+    second: electricity_SprteSheet 1_236
+  - first:
+      213: -5970590019662917283
+    second: electricity_SprteSheet 1_237
+  - first:
+      213: 3774213030423787719
+    second: electricity_SprteSheet 1_238
+  - first:
+      213: -5139831506021910419
+    second: electricity_SprteSheet 1_239
+  - first:
+      213: -4134628933713672222
+    second: electricity_SprteSheet 1_240
+  - first:
+      213: 481191985467427241
+    second: electricity_SprteSheet 1_241
+  - first:
+      213: 8127100171483767893
+    second: electricity_SprteSheet 1_242
+  - first:
+      213: -8119488585195900896
+    second: electricity_SprteSheet 1_243
+  - first:
+      213: -7215592658139571960
+    second: electricity_SprteSheet 1_244
+  - first:
+      213: -3211664007932728447
+    second: electricity_SprteSheet 1_245
+  - first:
+      213: -1870773999665137720
+    second: electricity_SprteSheet 1_246
+  - first:
+      213: -2724579708172106519
+    second: electricity_SprteSheet 1_247
+  - first:
+      213: -7093796529275933322
+    second: electricity_SprteSheet 1_248
+  - first:
+      213: 4252501444932773649
+    second: electricity_SprteSheet 1_249
+  - first:
+      213: -4875924715045140057
+    second: electricity_SprteSheet 1_250
+  - first:
+      213: 8293910327735512114
+    second: electricity_SprteSheet 1_251
+  - first:
+      213: -7095485185705666662
+    second: electricity_SprteSheet 1_252
+  - first:
+      213: -1240975535035331846
+    second: electricity_SprteSheet 1_253
+  - first:
+      213: 935819833941873757
+    second: electricity_SprteSheet 1_254
+  - first:
+      213: 2084897049795206850
+    second: electricity_SprteSheet 1_255
+  - first:
+      213: 7611500086957681994
+    second: electricity_SprteSheet 1_256
+  - first:
+      213: 1081095131423922203
+    second: electricity_SprteSheet 1_257
+  - first:
+      213: 4831439139182181213
+    second: electricity_SprteSheet 1_258
+  - first:
+      213: -2926085478688100837
+    second: electricity_SprteSheet 1_259
+  - first:
+      213: 8126942567585544842
+    second: electricity_SprteSheet 1_260
+  - first:
+      213: 8192642263192420439
+    second: electricity_SprteSheet 1_261
+  - first:
+      213: -7289030458437977403
+    second: electricity_SprteSheet 1_262
+  - first:
+      213: -5958980499695909964
+    second: electricity_SprteSheet 1_263
+  - first:
+      213: 7794652447352464378
+    second: electricity_SprteSheet 1_264
+  - first:
+      213: 1534695729242306225
+    second: electricity_SprteSheet 1_265
+  - first:
+      213: 4948976354705903029
+    second: electricity_SprteSheet 1_266
+  - first:
+      213: -7089358036723758336
+    second: electricity_SprteSheet 1_267
+  - first:
+      213: -6253073755442939629
+    second: electricity_SprteSheet 1_268
+  - first:
+      213: -9184879474120036199
+    second: electricity_SprteSheet 1_269
+  - first:
+      213: -1595358072518560577
+    second: electricity_SprteSheet 1_270
+  - first:
+      213: 3495965950415324223
+    second: electricity_SprteSheet 1_271
+  - first:
+      213: -8587457509928782770
+    second: electricity_SprteSheet 1_272
+  - first:
+      213: -7307745503080094822
+    second: electricity_SprteSheet 1_273
+  - first:
+      213: 2952702528805759349
+    second: electricity_SprteSheet 1_274
+  - first:
+      213: -6275188463993682214
+    second: electricity_SprteSheet 1_275
+  - first:
+      213: 5752038013644557201
+    second: electricity_SprteSheet 1_276
+  - first:
+      213: -2510394226726745736
+    second: electricity_SprteSheet 1_277
+  - first:
+      213: 8124836505233243063
+    second: electricity_SprteSheet 1_278
+  - first:
+      213: 4757073094319306434
+    second: electricity_SprteSheet 1_279
+  - first:
+      213: -7393646893796826385
+    second: electricity_SprteSheet 1_280
+  - first:
+      213: 8478600484427996450
+    second: electricity_SprteSheet 1_281
+  - first:
+      213: -2422365837321747092
+    second: electricity_SprteSheet 1_282
+  - first:
+      213: -5391700452532166863
+    second: electricity_SprteSheet 1_283
+  - first:
+      213: 124058298854047378
+    second: electricity_SprteSheet 1_284
+  - first:
+      213: -3418053035975987636
+    second: electricity_SprteSheet 1_285
+  - first:
+      213: 7698830267874883197
+    second: electricity_SprteSheet 1_286
+  - first:
+      213: 2156469911411012566
+    second: electricity_SprteSheet 1_287
+  - first:
+      213: -8723894077774285923
+    second: electricity_SprteSheet 1_288
+  - first:
+      213: -5808080886720254504
+    second: electricity_SprteSheet 1_289
+  - first:
+      213: -7876129727628538261
+    second: electricity_SprteSheet 1_290
+  - first:
+      213: 6793219807508955714
+    second: electricity_SprteSheet 1_291
+  - first:
+      213: -5850961891015494248
+    second: electricity_SprteSheet 1_292
+  - first:
+      213: 2761121271276457865
+    second: electricity_SprteSheet 1_293
+  - first:
+      213: 6594662099950534940
+    second: electricity_SprteSheet 1_294
+  - first:
+      213: -6682190031540516467
+    second: electricity_SprteSheet 1_295
+  - first:
+      213: -125571005789579672
+    second: electricity_SprteSheet 1_296
+  - first:
+      213: -7046428148878597809
+    second: electricity_SprteSheet 1_297
+  - first:
+      213: 4241194064910728190
+    second: electricity_SprteSheet 1_298
+  - first:
+      213: -5970689084654008923
+    second: electricity_SprteSheet 1_299
+  - first:
+      213: 15467704375757419
+    second: electricity_SprteSheet 1_300
+  - first:
+      213: 7366164135300095073
+    second: electricity_SprteSheet 1_301
+  - first:
+      213: -3031124530579845992
+    second: electricity_SprteSheet 1_302
+  - first:
+      213: 1391726320035462572
+    second: electricity_SprteSheet 1_303
+  - first:
+      213: 1760463443263782869
+    second: electricity_SprteSheet 1_304
+  - first:
+      213: 4212116201672902328
+    second: electricity_SprteSheet 1_305
+  - first:
+      213: -979888885439902082
+    second: electricity_SprteSheet 1_306
+  - first:
+      213: -7692918256997280088
+    second: electricity_SprteSheet 1_307
+  - first:
+      213: 1318920830561160201
+    second: electricity_SprteSheet 1_308
+  - first:
+      213: 6451600224428798951
+    second: electricity_SprteSheet 1_309
+  - first:
+      213: 4335075073764655417
+    second: electricity_SprteSheet 1_310
+  - first:
+      213: -5847685969028428356
+    second: electricity_SprteSheet 1_311
+  - first:
+      213: -1421499169767798914
+    second: electricity_SprteSheet 1_312
+  - first:
+      213: 8097982113151702689
+    second: electricity_SprteSheet 1_313
+  - first:
+      213: -972656380399035704
+    second: electricity_SprteSheet 1_314
+  - first:
+      213: 5585629371419402337
+    second: electricity_SprteSheet 1_315
+  - first:
+      213: 1305538719271008719
+    second: electricity_SprteSheet 1_316
+  - first:
+      213: -3412601146932008402
+    second: electricity_SprteSheet 1_317
+  - first:
+      213: -6788690501694365226
+    second: electricity_SprteSheet 1_318
+  - first:
+      213: -6269329094687506983
+    second: electricity_SprteSheet 1_319
+  - first:
+      213: 7323586301358123840
+    second: electricity_SprteSheet 1_320
+  - first:
+      213: 7044815667304516026
+    second: electricity_SprteSheet 1_321
+  - first:
+      213: 2182868026690919532
+    second: electricity_SprteSheet 1_322
+  - first:
+      213: 7005197864028772044
+    second: electricity_SprteSheet 1_323
+  - first:
+      213: 5095975679480450072
+    second: electricity_SprteSheet 1_324
+  - first:
+      213: -7974290203971756085
+    second: electricity_SprteSheet 1_325
+  - first:
+      213: 6614989379323245265
+    second: electricity_SprteSheet 1_326
+  - first:
+      213: -3020267170948123501
+    second: electricity_SprteSheet 1_327
+  - first:
+      213: 3223099071795611359
+    second: electricity_SprteSheet 1_328
+  - first:
+      213: -3981686376228073877
+    second: electricity_SprteSheet 1_329
+  - first:
+      213: -3872784024260822213
+    second: electricity_SprteSheet 1_330
+  - first:
+      213: -2583258903577333359
+    second: electricity_SprteSheet 1_331
+  - first:
+      213: -6873101746904144573
+    second: electricity_SprteSheet 1_332
+  - first:
+      213: -7417001427863814179
+    second: electricity_SprteSheet 1_333
+  - first:
+      213: -5801392803821377073
+    second: electricity_SprteSheet 1_334
+  - first:
+      213: -1636744209961624112
+    second: electricity_SprteSheet 1_335
+  - first:
+      213: 7067460300988658709
+    second: electricity_SprteSheet 1_336
+  - first:
+      213: -8099939223754634124
+    second: electricity_SprteSheet 1_337
+  - first:
+      213: -4071399509764559533
+    second: electricity_SprteSheet 1_338
+  - first:
+      213: 3270343763927806944
+    second: electricity_SprteSheet 1_339
+  - first:
+      213: -8079004497768887839
+    second: electricity_SprteSheet 1_340
+  - first:
+      213: 2449694989265405283
+    second: electricity_SprteSheet 1_341
+  - first:
+      213: 8064800681876133448
+    second: electricity_SprteSheet 1_342
+  - first:
+      213: 5325122079879561391
+    second: electricity_SprteSheet 1_343
+  - first:
+      213: 1417035625611817567
+    second: electricity_SprteSheet 1_344
+  - first:
+      213: -5434311461308984212
+    second: electricity_SprteSheet 1_345
+  - first:
+      213: 6144679401867076321
+    second: electricity_SprteSheet 1_346
+  - first:
+      213: 584995980808353767
+    second: electricity_SprteSheet 1_347
+  - first:
+      213: -8288110205035208062
+    second: electricity_SprteSheet 1_348
+  - first:
+      213: -3180894796625626890
+    second: electricity_SprteSheet 1_349
+  - first:
+      213: -2772421410885687854
+    second: electricity_SprteSheet 1_350
+  - first:
+      213: 2127413882699372522
+    second: electricity_SprteSheet 1_351
+  - first:
+      213: 2226742983353945614
+    second: electricity_SprteSheet 1_352
+  - first:
+      213: 4000704576334978960
+    second: electricity_SprteSheet 1_353
+  - first:
+      213: -4825477227076411502
+    second: electricity_SprteSheet 1_354
+  - first:
+      213: -5875685890505313171
+    second: electricity_SprteSheet 1_355
+  - first:
+      213: -7314204305229530136
+    second: electricity_SprteSheet 1_356
+  - first:
+      213: -7653334495179095921
+    second: electricity_SprteSheet 1_357
+  - first:
+      213: 6347308498073612794
+    second: electricity_SprteSheet 1_358
+  - first:
+      213: 5672014310921686288
+    second: electricity_SprteSheet 1_359
+  - first:
+      213: 534713848171811586
+    second: electricity_SprteSheet 1_360
+  - first:
+      213: -1478145309769664528
+    second: electricity_SprteSheet 1_361
+  - first:
+      213: 2302027331572890805
+    second: electricity_SprteSheet 1_362
+  - first:
+      213: -8553933797661840075
+    second: electricity_SprteSheet 1_363
+  - first:
+      213: 4019897128969364364
+    second: electricity_SprteSheet 1_364
+  - first:
+      213: -4373286412276134785
+    second: electricity_SprteSheet 1_365
+  - first:
+      213: 2880576586541911907
+    second: electricity_SprteSheet 1_366
+  - first:
+      213: 1466774295183704704
+    second: electricity_SprteSheet 1_367
+  - first:
+      213: -1650874479907763930
+    second: electricity_SprteSheet 1_368
+  - first:
+      213: 2488753133910205841
+    second: electricity_SprteSheet 1_369
+  - first:
+      213: 5508939138695254992
+    second: electricity_SprteSheet 1_370
+  - first:
+      213: 4671213633112107794
+    second: electricity_SprteSheet 1_371
+  - first:
+      213: -5123589029394649420
+    second: electricity_SprteSheet 1_372
+  - first:
+      213: 963923674746493667
+    second: electricity_SprteSheet 1_373
+  - first:
+      213: -6045849079810823901
+    second: electricity_SprteSheet 1_374
+  - first:
+      213: -3611375580741587327
+    second: electricity_SprteSheet 1_375
+  - first:
+      213: -444793581512392536
+    second: electricity_SprteSheet 1_376
+  - first:
+      213: 2681050757771469163
+    second: electricity_SprteSheet 1_377
+  - first:
+      213: -6520796199554569374
+    second: electricity_SprteSheet 1_378
+  - first:
+      213: -1004477398745139158
+    second: electricity_SprteSheet 1_379
+  - first:
+      213: -1749367330361636207
+    second: electricity_SprteSheet 1_380
+  - first:
+      213: -1379531553357791711
+    second: electricity_SprteSheet 1_381
+  - first:
+      213: -104032841613301144
+    second: electricity_SprteSheet 1_382
+  - first:
+      213: -3938249067082531487
+    second: electricity_SprteSheet 1_383
+  - first:
+      213: -7496401336962881590
+    second: electricity_SprteSheet 1_384
+  - first:
+      213: -7142237587401330183
+    second: electricity_SprteSheet 1_385
+  - first:
+      213: -1433047548860651563
+    second: electricity_SprteSheet 1_386
+  - first:
+      213: 7099666796694965107
+    second: electricity_SprteSheet 1_387
+  - first:
+      213: 7534721847107214044
+    second: electricity_SprteSheet 1_388
+  - first:
+      213: -2182754189583236392
+    second: electricity_SprteSheet 1_389
+  - first:
+      213: -2273223122130457799
+    second: electricity_SprteSheet 1_390
+  - first:
+      213: 1110057968910692334
+    second: electricity_SprteSheet 1_391
+  - first:
+      213: 8509779695539958658
+    second: electricity_SprteSheet 1_392
+  - first:
+      213: -9079559774373960823
+    second: electricity_SprteSheet 1_393
+  - first:
+      213: 2501559152599731918
+    second: electricity_SprteSheet 1_394
+  - first:
+      213: 3259170299551650971
+    second: electricity_SprteSheet 1_395
+  - first:
+      213: 5474957451503810964
+    second: electricity_SprteSheet 1_396
+  - first:
+      213: -3457762880362537937
+    second: electricity_SprteSheet 1_397
+  - first:
+      213: 2194764345490133607
+    second: electricity_SprteSheet 1_398
+  - first:
+      213: 5413607005908364012
+    second: electricity_SprteSheet 1_399
+  - first:
+      213: -4819016825545401463
+    second: electricity_SprteSheet 1_400
+  - first:
+      213: 4650501882609550800
+    second: electricity_SprteSheet 1_401
+  - first:
+      213: -5727100048582654544
+    second: electricity_SprteSheet 1_402
+  - first:
+      213: -1347347121858245223
+    second: electricity_SprteSheet 1_403
+  - first:
+      213: -114750341701936403
+    second: electricity_SprteSheet 1_404
+  - first:
+      213: -4526872756872057692
+    second: electricity_SprteSheet 1_405
+  - first:
+      213: -1352819957091092317
+    second: electricity_SprteSheet 1_406
+  - first:
+      213: 6216771763156583249
+    second: electricity_SprteSheet 1_407
+  - first:
+      213: 2722549088194301958
+    second: electricity_SprteSheet 1_408
+  - first:
+      213: 562787784674442243
+    second: electricity_SprteSheet 1_409
+  - first:
+      213: 5833857444012996416
+    second: electricity_SprteSheet 1_410
+  - first:
+      213: -4349535777465066872
+    second: electricity_SprteSheet 1_411
+  - first:
+      213: 5619721821738418619
+    second: electricity_SprteSheet 1_412
+  - first:
+      213: 1184694058910239843
+    second: electricity_SprteSheet 1_413
+  - first:
+      213: 3874402260692024165
+    second: electricity_SprteSheet 1_414
+  - first:
+      213: -6282559231634011802
+    second: electricity_SprteSheet 1_415
+  - first:
+      213: 8320248500678043717
+    second: electricity_SprteSheet 1_416
+  - first:
+      213: 8880851655668658094
+    second: electricity_SprteSheet 1_417
+  - first:
+      213: 8049570994701677233
+    second: electricity_SprteSheet 1_418
+  - first:
+      213: 3231240930462682131
+    second: electricity_SprteSheet 1_419
+  - first:
+      213: 8968377163858599198
+    second: electricity_SprteSheet 1_420
+  - first:
+      213: -6722662840435255142
+    second: electricity_SprteSheet 1_421
+  - first:
+      213: -548973661308204951
+    second: electricity_SprteSheet 1_422
+  - first:
+      213: 6728318831629753939
+    second: electricity_SprteSheet 1_423
+  - first:
+      213: -8777705932918965261
+    second: electricity_SprteSheet 1_424
+  - first:
+      213: 7507068132123586372
+    second: electricity_SprteSheet 1_425
+  - first:
+      213: -2371362254951652088
+    second: electricity_SprteSheet 1_426
+  - first:
+      213: -8134202855137101320
+    second: electricity_SprteSheet 1_427
+  - first:
+      213: 3724809272045519147
+    second: electricity_SprteSheet 1_428
+  - first:
+      213: 4584818845181955842
+    second: electricity_SprteSheet 1_429
+  - first:
+      213: 4538001049999201639
+    second: electricity_SprteSheet 1_430
+  - first:
+      213: -4728956595334828488
+    second: electricity_SprteSheet 1_431
+  - first:
+      213: -415368800890229301
+    second: electricity_SprteSheet 1_432
+  - first:
+      213: 2042657516890042384
+    second: electricity_SprteSheet 1_433
+  - first:
+      213: 3935569124328928919
+    second: electricity_SprteSheet 1_434
+  - first:
+      213: 4998310489701514118
+    second: electricity_SprteSheet 1_435
+  - first:
+      213: 5415314908480477356
+    second: electricity_SprteSheet 1_436
+  - first:
+      213: 4668171741622200657
+    second: electricity_SprteSheet 1_437
+  - first:
+      213: 7640008101800579250
+    second: electricity_SprteSheet 1_438
+  - first:
+      213: 3309797898507578453
+    second: electricity_SprteSheet 1_439
+  - first:
+      213: 4404741519184578650
+    second: electricity_SprteSheet 1_440
+  - first:
+      213: -3743538750633233755
+    second: electricity_SprteSheet 1_441
+  - first:
+      213: 7180644323341228931
+    second: electricity_SprteSheet 1_442
+  - first:
+      213: 3963907823554956391
+    second: electricity_SprteSheet 1_443
+  - first:
+      213: 1375154720997875843
+    second: electricity_SprteSheet 1_444
+  - first:
+      213: -1531915911817696309
+    second: electricity_SprteSheet 1_445
+  - first:
+      213: 3118634361213001932
+    second: electricity_SprteSheet 1_446
+  - first:
+      213: 7979358219349055560
+    second: electricity_SprteSheet 1_447
+  - first:
+      213: 4214576581125241369
+    second: electricity_SprteSheet 1_448
+  - first:
+      213: 8878587523760367061
+    second: electricity_SprteSheet 1_449
+  - first:
+      213: -5105651610972300237
+    second: electricity_SprteSheet 1_450
+  - first:
+      213: -9000362890353056184
+    second: electricity_SprteSheet 1_451
+  - first:
+      213: 7411116821886414733
+    second: electricity_SprteSheet 1_452
+  - first:
+      213: -3015836320296409728
+    second: electricity_SprteSheet 1_453
+  - first:
+      213: -8579337530092346787
+    second: electricity_SprteSheet 1_454
+  - first:
+      213: 5939776680350045960
+    second: electricity_SprteSheet 1_455
+  - first:
+      213: 4470338361360987689
+    second: electricity_SprteSheet 1_456
+  - first:
+      213: -1965811078878249263
+    second: electricity_SprteSheet 1_457
+  - first:
+      213: 84208366174032066
+    second: electricity_SprteSheet 1_458
+  - first:
+      213: 1053668474145616952
+    second: electricity_SprteSheet 1_459
+  - first:
+      213: -5039657605891172586
+    second: electricity_SprteSheet 1_460
+  - first:
+      213: 7238957922796593587
+    second: electricity_SprteSheet 1_461
+  - first:
+      213: -1211200380420796256
+    second: electricity_SprteSheet 1_462
+  - first:
+      213: 765393173019562475
+    second: electricity_SprteSheet 1_463
+  - first:
+      213: 1849895262189177062
+    second: electricity_SprteSheet 1_464
+  - first:
+      213: -3001477725707072255
+    second: electricity_SprteSheet 1_465
+  - first:
+      213: 391145800521702874
+    second: electricity_SprteSheet 1_466
+  - first:
+      213: 8726830469660703402
+    second: electricity_SprteSheet 1_467
+  - first:
+      213: 4858163433154197036
+    second: electricity_SprteSheet 1_468
+  - first:
+      213: -6528935121182343384
+    second: electricity_SprteSheet 1_469
+  - first:
+      213: 4337917318004428491
+    second: electricity_SprteSheet 1_470
+  - first:
+      213: -4361854555149621340
+    second: electricity_SprteSheet 1_471
+  - first:
+      213: 3961274669546208723
+    second: electricity_SprteSheet 1_472
+  - first:
+      213: 7505794519808412930
+    second: electricity_SprteSheet 1_473
+  - first:
+      213: 7264262446399943897
+    second: electricity_SprteSheet 1_474
+  - first:
+      213: -2616461264298440673
+    second: electricity_SprteSheet 1_475
+  - first:
+      213: 1690035131173900298
+    second: electricity_SprteSheet 1_476
+  - first:
+      213: -2433830137780300051
+    second: electricity_SprteSheet 1_477
+  - first:
+      213: 537600562132931334
+    second: electricity_SprteSheet 1_478
+  - first:
+      213: -640811960735376473
+    second: electricity_SprteSheet 1_479
+  - first:
+      213: 3786484293577352266
+    second: electricity_SprteSheet 1_480
+  - first:
+      213: -8407159118719628315
+    second: electricity_SprteSheet 1_481
+  - first:
+      213: 6015025586247282383
+    second: electricity_SprteSheet 1_482
+  - first:
+      213: -1360770722532335677
+    second: electricity_SprteSheet 1_483
+  - first:
+      213: 2124132788518288203
+    second: electricity_SprteSheet 1_484
+  - first:
+      213: 5922077246539711497
+    second: electricity_SprteSheet 1_485
+  - first:
+      213: -7135910432476965010
+    second: electricity_SprteSheet 1_486
+  - first:
+      213: 4375598691561952391
+    second: electricity_SprteSheet 1_487
+  - first:
+      213: -3832651905446866144
+    second: electricity_SprteSheet 1_488
+  - first:
+      213: 2813693065550274221
+    second: electricity_SprteSheet 1_489
+  - first:
+      213: 7711026743779871323
+    second: electricity_SprteSheet 1_490
+  - first:
+      213: -958149655963236117
+    second: electricity_SprteSheet 1_491
+  - first:
+      213: -2702724475339620028
+    second: electricity_SprteSheet 1_492
+  - first:
+      213: 8212617189782314719
+    second: electricity_SprteSheet 1_493
+  - first:
+      213: 1757503168496673129
+    second: electricity_SprteSheet 1_494
+  - first:
+      213: 5287067949745889124
+    second: electricity_SprteSheet 1_495
+  - first:
+      213: 7346290531622871537
+    second: electricity_SprteSheet 1_496
+  - first:
+      213: 6786694414237707367
+    second: electricity_SprteSheet 1_497
+  - first:
+      213: 1661511766386568105
+    second: electricity_SprteSheet 1_498
+  - first:
+      213: -7201496493282522306
+    second: electricity_SprteSheet 1_499
+  - first:
+      213: -4212375670671282974
+    second: electricity_SprteSheet 1_500
+  - first:
+      213: 6311248614272808233
+    second: electricity_SprteSheet 1_501
+  - first:
+      213: -8140271478486665454
+    second: electricity_SprteSheet 1_502
+  - first:
+      213: -366534244359865862
+    second: electricity_SprteSheet 1_503
+  - first:
+      213: 6368661851100731797
+    second: electricity_SprteSheet 1_504
+  - first:
+      213: 9171202584817550044
+    second: electricity_SprteSheet 1_505
+  - first:
+      213: -6439170824795913437
+    second: electricity_SprteSheet 1_506
+  - first:
+      213: -5415906361012055423
+    second: electricity_SprteSheet 1_507
+  - first:
+      213: 5245854343203869955
+    second: electricity_SprteSheet 1_508
+  - first:
+      213: -5156670571259318785
+    second: electricity_SprteSheet 1_509
+  - first:
+      213: 7064861012182093041
+    second: electricity_SprteSheet 1_510
+  - first:
+      213: 2497360234161365832
+    second: electricity_SprteSheet 1_511
+  - first:
+      213: 7126356372915215606
+    second: electricity_SprteSheet 1_512
+  - first:
+      213: 709316158734612268
+    second: electricity_SprteSheet 1_513
+  - first:
+      213: -3680349759009596929
+    second: electricity_SprteSheet 1_514
+  - first:
+      213: -1713076582300551783
+    second: electricity_SprteSheet 1_515
+  - first:
+      213: 7584280329027095336
+    second: electricity_SprteSheet 1_516
+  - first:
+      213: -2662366136651940374
+    second: electricity_SprteSheet 1_517
+  - first:
+      213: 3603605947181458415
+    second: electricity_SprteSheet 1_518
+  - first:
+      213: -3715477899842694055
+    second: electricity_SprteSheet 1_519
+  - first:
+      213: 7076235920806033077
+    second: electricity_SprteSheet 1_520
+  - first:
+      213: 3043433974635455114
+    second: electricity_SprteSheet 1_521
+  - first:
+      213: -8985470355445603548
+    second: electricity_SprteSheet 1_522
+  - first:
+      213: 8721976118200104262
+    second: electricity_SprteSheet 1_523
+  - first:
+      213: 5755200232015477732
+    second: electricity_SprteSheet 1_524
+  - first:
+      213: -7368104928353180887
+    second: electricity_SprteSheet 1_525
+  - first:
+      213: 4382518449329359031
+    second: electricity_SprteSheet 1_526
+  - first:
+      213: 342652009256311373
+    second: electricity_SprteSheet 1_527
+  - first:
+      213: -4595902657671707440
+    second: electricity_SprteSheet 1_528
+  - first:
+      213: 7523461480898089588
+    second: electricity_SprteSheet 1_529
+  - first:
+      213: -14966138611802020
+    second: electricity_SprteSheet 1_530
+  - first:
+      213: -3885395716024020142
+    second: electricity_SprteSheet 1_531
+  - first:
+      213: 5040983639356070288
+    second: electricity_SprteSheet 1_532
+  - first:
+      213: -2356209984745997658
+    second: electricity_SprteSheet 1_533
+  - first:
+      213: -5516015098110034115
+    second: electricity_SprteSheet 1_534
+  - first:
+      213: -6013241949599711744
+    second: electricity_SprteSheet 1_535
+  - first:
+      213: 5435418350923979694
+    second: electricity_SprteSheet 1_536
+  - first:
+      213: -1567518063564179108
+    second: electricity_SprteSheet 1_537
+  - first:
+      213: 6405300255821376795
+    second: electricity_SprteSheet 1_538
+  - first:
+      213: -2156153233947605398
+    second: electricity_SprteSheet 1_539
+  - first:
+      213: -2686378830670105436
+    second: electricity_SprteSheet 1_540
+  - first:
+      213: -6750236804979835664
+    second: electricity_SprteSheet 1_541
+  - first:
+      213: 1878519084891964367
+    second: electricity_SprteSheet 1_542
+  - first:
+      213: -1464330099194317778
+    second: electricity_SprteSheet 1_543
+  - first:
+      213: -7650031265567013042
+    second: electricity_SprteSheet 1_544
+  - first:
+      213: -5708417045752677588
+    second: electricity_SprteSheet 1_545
+  - first:
+      213: 2557770907040252313
+    second: electricity_SprteSheet 1_546
+  - first:
+      213: -2975973578339343134
+    second: electricity_SprteSheet 1_547
+  - first:
+      213: 7894416874156603566
+    second: electricity_SprteSheet 1_548
+  - first:
+      213: -1882344153759811805
+    second: electricity_SprteSheet 1_549
+  - first:
+      213: -5712982320936734313
+    second: electricity_SprteSheet 1_550
+  - first:
+      213: 318248022160279880
+    second: electricity_SprteSheet 1_551
+  - first:
+      213: -926025021634022033
+    second: electricity_SprteSheet 1_552
+  - first:
+      213: 4037874335178357897
+    second: electricity_SprteSheet 1_553
+  - first:
+      213: 4330105050638874010
+    second: electricity_SprteSheet 1_554
+  - first:
+      213: -71242748264305650
+    second: electricity_SprteSheet 1_555
+  - first:
+      213: 5127106742332974424
+    second: electricity_SprteSheet 1_556
+  - first:
+      213: 5879536144392408895
+    second: electricity_SprteSheet 1_557
+  - first:
+      213: 325343261793535562
+    second: electricity_SprteSheet 1_558
+  - first:
+      213: -2730310689766889185
+    second: electricity_SprteSheet 1_559
+  - first:
+      213: 7504107946726801905
+    second: electricity_SprteSheet 1_560
+  - first:
+      213: -5546473390303949352
+    second: electricity_SprteSheet 1_561
+  - first:
+      213: 5669377286583487375
+    second: electricity_SprteSheet 1_562
+  - first:
+      213: -529017440738261726
+    second: electricity_SprteSheet 1_563
+  - first:
+      213: 4276288667138163246
+    second: electricity_SprteSheet 1_564
+  - first:
+      213: -625975142103928511
+    second: electricity_SprteSheet 1_565
+  - first:
+      213: 5238797790078884976
+    second: electricity_SprteSheet 1_566
+  - first:
+      213: 4244233957414626912
+    second: electricity_SprteSheet 1_567
+  - first:
+      213: -8828248761547870658
+    second: electricity_SprteSheet 1_568
+  - first:
+      213: -8817624048794868175
+    second: electricity_SprteSheet 1_569
+  - first:
+      213: -1019500909725330240
+    second: electricity_SprteSheet 1_570
+  - first:
+      213: 4786423202476192846
+    second: electricity_SprteSheet 1_571
+  - first:
+      213: -5467107698078077071
+    second: electricity_SprteSheet 1_572
+  - first:
+      213: 6850448499690842825
+    second: electricity_SprteSheet 1_573
+  - first:
+      213: 4643817823734455252
+    second: electricity_SprteSheet 1_574
+  - first:
+      213: -1517562694148593079
+    second: electricity_SprteSheet 1_575
+  - first:
+      213: -1293387783537751105
+    second: electricity_SprteSheet 1_576
+  - first:
+      213: -7990215284831858496
+    second: electricity_SprteSheet 1_577
+  - first:
+      213: 1763885683847846448
+    second: electricity_SprteSheet 1_578
+  - first:
+      213: 351538696081824990
+    second: electricity_SprteSheet 1_579
+  - first:
+      213: 4627894694753045079
+    second: electricity_SprteSheet 1_580
+  - first:
+      213: 9132704807975110839
+    second: electricity_SprteSheet 1_581
+  - first:
+      213: -5818088964415514432
+    second: electricity_SprteSheet 1_582
+  - first:
+      213: 5159230948100839351
+    second: electricity_SprteSheet 1_583
+  - first:
+      213: 8553832154029728759
+    second: electricity_SprteSheet 1_584
+  - first:
+      213: 2897956504862798004
+    second: electricity_SprteSheet 1_585
+  - first:
+      213: -2990312388225898180
+    second: electricity_SprteSheet 1_586
+  - first:
+      213: -1562599806763729605
+    second: electricity_SprteSheet 1_587
+  - first:
+      213: -4550352166711754177
+    second: electricity_SprteSheet 1_588
+  - first:
+      213: -8950867874843536253
+    second: electricity_SprteSheet 1_589
+  - first:
+      213: 5156349695811278592
+    second: electricity_SprteSheet 1_590
+  - first:
+      213: -8924426697890276125
+    second: electricity_SprteSheet 1_591
+  - first:
+      213: 3872700953391509685
+    second: electricity_SprteSheet 1_592
+  - first:
+      213: 6775749620316604053
+    second: electricity_SprteSheet 1_593
+  - first:
+      213: 3148580953228612262
+    second: electricity_SprteSheet 1_594
+  - first:
+      213: 6579998797271505208
+    second: electricity_SprteSheet 1_595
+  - first:
+      213: 7556937757730093051
+    second: electricity_SprteSheet 1_596
+  - first:
+      213: -2184382588242879793
+    second: electricity_SprteSheet 1_597
+  - first:
+      213: -5214259545024845176
+    second: electricity_SprteSheet 1_598
+  - first:
+      213: -8758842443194851996
+    second: electricity_SprteSheet 1_599
+  - first:
+      213: -2258155761985696051
+    second: electricity_SprteSheet 1_600
+  - first:
+      213: 231729005416358797
+    second: electricity_SprteSheet 1_601
+  - first:
+      213: 5722030066773240600
+    second: electricity_SprteSheet 1_602
+  - first:
+      213: -8202386650751852696
+    second: electricity_SprteSheet 1_603
+  - first:
+      213: -4240825123338529462
+    second: electricity_SprteSheet 1_604
+  - first:
+      213: -925297525434208368
+    second: electricity_SprteSheet 1_605
+  - first:
+      213: -3863269877240530629
+    second: electricity_SprteSheet 1_606
+  - first:
+      213: 6131333097606892957
+    second: electricity_SprteSheet 1_607
+  - first:
+      213: 2256021759330387212
+    second: electricity_SprteSheet 1_608
+  - first:
+      213: 6797911466439091373
+    second: electricity_SprteSheet 1_609
+  - first:
+      213: 8948293355668138743
+    second: electricity_SprteSheet 1_610
+  - first:
+      213: -6697280051903567320
+    second: electricity_SprteSheet 1_611
+  - first:
+      213: 2443260985287477024
+    second: electricity_SprteSheet 1_612
+  - first:
+      213: -6805035814449219206
+    second: electricity_SprteSheet 1_613
+  - first:
+      213: -6344397544291113643
+    second: electricity_SprteSheet 1_614
+  - first:
+      213: 3022924262807467345
+    second: electricity_SprteSheet 1_615
+  - first:
+      213: 1173269195502782140
+    second: electricity_SprteSheet 1_616
+  - first:
+      213: -3966206924522631852
+    second: electricity_SprteSheet 1_617
+  - first:
+      213: 1851340802260003526
+    second: electricity_SprteSheet 1_618
+  - first:
+      213: 5866167328094998960
+    second: electricity_SprteSheet 1_619
+  - first:
+      213: -9041480594276091969
+    second: electricity_SprteSheet 1_620
+  - first:
+      213: -4381777179206892120
+    second: electricity_SprteSheet 1_621
+  - first:
+      213: 2519942915318486060
+    second: electricity_SprteSheet 1_622
+  - first:
+      213: -6520116382291974478
+    second: electricity_SprteSheet 1_623
+  - first:
+      213: -1713211486168044100
+    second: electricity_SprteSheet 1_624
+  - first:
+      213: -1874370322351699103
+    second: electricity_SprteSheet 1_625
+  - first:
+      213: -5762791192707821076
+    second: electricity_SprteSheet 1_626
+  - first:
+      213: -5804851129836879659
+    second: electricity_SprteSheet 1_627
+  - first:
+      213: -7843505788248342802
+    second: electricity_SprteSheet 1_628
+  - first:
+      213: -5641787358962909827
+    second: electricity_SprteSheet 1_629
+  - first:
+      213: -6546385779090614881
+    second: electricity_SprteSheet 1_630
+  - first:
+      213: 2878232412039453645
+    second: electricity_SprteSheet 1_631
+  - first:
+      213: -4733731350275596706
+    second: electricity_SprteSheet 1_632
+  - first:
+      213: 6499195757767692304
+    second: electricity_SprteSheet 1_633
+  - first:
+      213: 676978384430216639
+    second: electricity_SprteSheet 1_634
+  - first:
+      213: -3294373525184454730
+    second: electricity_SprteSheet 1_635
+  - first:
+      213: 1695676186979343831
+    second: electricity_SprteSheet 1_636
+  - first:
+      213: 2879075126706799644
+    second: electricity_SprteSheet 1_637
+  - first:
+      213: 8729094304653544001
+    second: electricity_SprteSheet 1_638
+  - first:
+      213: 9064266752047455369
+    second: electricity_SprteSheet 1_639
+  - first:
+      213: 2903988141882174005
+    second: electricity_SprteSheet 1_640
+  - first:
+      213: -5423015743816943203
+    second: electricity_SprteSheet 1_641
+  - first:
+      213: 2175200231606550989
+    second: electricity_SprteSheet 1_642
+  - first:
+      213: 2571580784378908530
+    second: electricity_SprteSheet 1_643
+  - first:
+      213: 3804447731196275908
+    second: electricity_SprteSheet 1_644
+  - first:
+      213: -7571442332120999131
+    second: electricity_SprteSheet 1_645
+  - first:
+      213: -5650470020930327362
+    second: electricity_SprteSheet 1_646
+  - first:
+      213: 5874796120993562598
+    second: electricity_SprteSheet 1_647
+  - first:
+      213: -8894786756165066093
+    second: electricity_SprteSheet 1_648
+  - first:
+      213: 8982203259271617061
+    second: electricity_SprteSheet 1_649
+  - first:
+      213: 1806475845839050926
+    second: electricity_SprteSheet 1_650
+  - first:
+      213: -5305115068868058464
+    second: electricity_SprteSheet 1_651
+  - first:
+      213: 2987565627369869314
+    second: electricity_SprteSheet 1_652
+  - first:
+      213: 3709597647223682091
+    second: electricity_SprteSheet 1_653
+  - first:
+      213: -3552585164370357618
+    second: electricity_SprteSheet 1_654
+  - first:
+      213: -2155338804135500343
+    second: electricity_SprteSheet 1_655
+  - first:
+      213: -3668904045375960810
+    second: electricity_SprteSheet 1_656
+  - first:
+      213: 3354070378576597143
+    second: electricity_SprteSheet 1_657
+  - first:
+      213: 422094734672892746
+    second: electricity_SprteSheet 1_658
+  - first:
+      213: 7806108303971678112
+    second: electricity_SprteSheet 1_659
+  - first:
+      213: -7199510533667285773
+    second: electricity_SprteSheet 1_660
+  - first:
+      213: 2965243496101354812
+    second: electricity_SprteSheet 1_661
+  - first:
+      213: 618242622655202776
+    second: electricity_SprteSheet 1_662
+  - first:
+      213: 5149003265126086612
+    second: electricity_SprteSheet 1_663
+  - first:
+      213: -5098620406624958567
+    second: electricity_SprteSheet 1_664
+  - first:
+      213: -4317898552903511040
+    second: electricity_SprteSheet 1_665
+  - first:
+      213: -7873456781878882605
+    second: electricity_SprteSheet 1_666
+  - first:
+      213: -7296839458018509714
+    second: electricity_SprteSheet 1_667
+  - first:
+      213: 405094382987193167
+    second: electricity_SprteSheet 1_668
+  - first:
+      213: -385576263122223362
+    second: electricity_SprteSheet 1_669
+  - first:
+      213: 2184589720508131151
+    second: electricity_SprteSheet 1_670
+  - first:
+      213: -1277059704895266062
+    second: electricity_SprteSheet 1_671
+  - first:
+      213: 4655343190131167320
+    second: electricity_SprteSheet 1_672
+  - first:
+      213: -6487975826627947019
+    second: electricity_SprteSheet 1_673
+  - first:
+      213: 6752770270606848793
+    second: electricity_SprteSheet 1_674
+  - first:
+      213: -1541188675703729814
+    second: electricity_SprteSheet 1_675
+  - first:
+      213: 2434562949599594557
+    second: electricity_SprteSheet 1_676
+  - first:
+      213: -7259871755456715053
+    second: electricity_SprteSheet 1_677
+  - first:
+      213: 9166280260057830810
+    second: electricity_SprteSheet 1_678
+  - first:
+      213: -8512213824042623780
+    second: electricity_SprteSheet 1_679
+  - first:
+      213: -8706459038959925303
+    second: electricity_SprteSheet 1_680
+  - first:
+      213: -262019825471352241
+    second: electricity_SprteSheet 1_681
+  - first:
+      213: -8999523777164461340
+    second: electricity_SprteSheet 1_682
+  - first:
+      213: -2369802194657868343
+    second: electricity_SprteSheet 1_683
+  - first:
+      213: 5720397319519220937
+    second: electricity_SprteSheet 1_684
+  - first:
+      213: -5480835985945185778
+    second: electricity_SprteSheet 1_685
+  - first:
+      213: -9011448764162797424
+    second: electricity_SprteSheet 1_686
+  - first:
+      213: 5890539131075078783
+    second: electricity_SprteSheet 1_687
+  - first:
+      213: 4024638099590236850
+    second: electricity_SprteSheet 1_688
+  - first:
+      213: 367369165547501352
+    second: electricity_SprteSheet 1_689
+  - first:
+      213: 8613336817936569272
+    second: electricity_SprteSheet 1_690
+  - first:
+      213: -307801761187899021
+    second: electricity_SprteSheet 1_691
+  - first:
+      213: -4165642668397267653
+    second: electricity_SprteSheet 1_692
+  - first:
+      213: -842435387004404666
+    second: electricity_SprteSheet 1_693
+  - first:
+      213: -6165456224036041102
+    second: electricity_SprteSheet 1_694
+  - first:
+      213: 2061742958027368197
+    second: electricity_SprteSheet 1_695
+  - first:
+      213: 7701303900279183855
+    second: electricity_SprteSheet 1_696
+  - first:
+      213: -5264000466518008938
+    second: electricity_SprteSheet 1_697
+  - first:
+      213: -3638883249394289653
+    second: electricity_SprteSheet 1_698
+  - first:
+      213: -1289752269010845571
+    second: electricity_SprteSheet 1_699
+  - first:
+      213: -6622440723136500513
+    second: electricity_SprteSheet 1_700
+  - first:
+      213: 3509474257443424095
+    second: electricity_SprteSheet 1_701
+  - first:
+      213: -8992546639175767294
+    second: electricity_SprteSheet 1_702
+  - first:
+      213: -8313698127385520481
+    second: electricity_SprteSheet 1_703
+  - first:
+      213: -2512515642270776344
+    second: electricity_SprteSheet 1_704
+  - first:
+      213: 7195128796374894916
+    second: electricity_SprteSheet 1_705
+  - first:
+      213: -6713531648341008924
+    second: electricity_SprteSheet 1_706
+  - first:
+      213: -6113812028413250579
+    second: electricity_SprteSheet 1_707
+  - first:
+      213: 2855502905769688676
+    second: electricity_SprteSheet 1_708
+  - first:
+      213: -4437618870707838939
+    second: electricity_SprteSheet 1_709
+  - first:
+      213: -3783202584904236202
+    second: electricity_SprteSheet 1_710
+  - first:
+      213: -3207973103026515044
+    second: electricity_SprteSheet 1_711
+  - first:
+      213: -7091103785764786173
+    second: electricity_SprteSheet 1_712
+  - first:
+      213: -3758566339848328612
+    second: electricity_SprteSheet 1_713
+  - first:
+      213: -2581863866142938650
+    second: electricity_SprteSheet 1_714
+  - first:
+      213: 689452886465040258
+    second: electricity_SprteSheet 1_715
+  - first:
+      213: 7401214084689191136
+    second: electricity_SprteSheet 1_716
+  - first:
+      213: 3445581910975997915
+    second: electricity_SprteSheet 1_717
+  - first:
+      213: -3726027764701051886
+    second: electricity_SprteSheet 1_718
+  - first:
+      213: 6654156622849855955
+    second: electricity_SprteSheet 1_719
+  - first:
+      213: 4747638467149785446
+    second: electricity_SprteSheet 1_720
+  - first:
+      213: 8361708843577559460
+    second: electricity_SprteSheet 1_721
+  - first:
+      213: 593973443764172042
+    second: electricity_SprteSheet 1_722
+  - first:
+      213: -2395502015549223110
+    second: electricity_SprteSheet 1_723
+  - first:
+      213: 8106890598171707660
+    second: electricity_SprteSheet 1_724
+  - first:
+      213: -3475977629723523056
+    second: electricity_SprteSheet 1_725
+  - first:
+      213: -3876059824044356278
+    second: electricity_SprteSheet 1_726
+  - first:
+      213: -5869294759833284072
+    second: electricity_SprteSheet 1_727
+  - first:
+      213: -5163599198049670664
+    second: electricity_SprteSheet 1_728
+  - first:
+      213: 545384613739115633
+    second: electricity_SprteSheet 1_729
+  - first:
+      213: 6579714278194036194
+    second: electricity_SprteSheet 1_730
+  - first:
+      213: 3491891585202971107
+    second: electricity_SprteSheet 1_731
+  - first:
+      213: -2296125598327423698
+    second: electricity_SprteSheet 1_732
+  - first:
+      213: 8724735347149965305
+    second: electricity_SprteSheet 1_733
+  - first:
+      213: 486855060503291858
+    second: electricity_SprteSheet 1_734
+  - first:
+      213: -41492540115780248
+    second: electricity_SprteSheet 1_735
+  - first:
+      213: 2865352566700617277
+    second: electricity_SprteSheet 1_736
+  - first:
+      213: 1931947297982550100
+    second: electricity_SprteSheet 1_737
+  - first:
+      213: -7897285151616439025
+    second: electricity_SprteSheet 1_738
+  - first:
+      213: -4374712945614181788
+    second: electricity_SprteSheet 1_739
+  - first:
+      213: 4376802950780172113
+    second: electricity_SprteSheet 1_740
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca30d1a3c994750800000000000000
+      internalID: 6289730128008424633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65d946362a2dc80800000000000000
+      internalID: -8299392615516907793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a335d003b12f24c0800000000000000
+      internalID: -4310189265673440349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef73e78f89dc359c0800000000000000
+      internalID: -3939579192131307522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb33af49f1e5890800000000000000
+      internalID: -7467496407420387787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e6923a2d3e4920800000000000000
+      internalID: 2976383655185146650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bded1e558dcb8e4f0800000000000000
+      internalID: -799181296518439205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ecc9247b90cdaf0800000000000000
+      internalID: -370410386649985438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d83cf79e4a0b60800000000000000
+      internalID: 7713063726504006481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174e61186ae256f0800000000000000
+      internalID: -697237259599067361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f1134403a0ee650800000000000000
+      internalID: 6263955334137716511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa59b4b81688a310800000000000000
+      internalID: 1416529523477404402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe13e4e324a60f90800000000000000
+      internalID: -6987717297747845386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea592356bec74a0800000000000000
+      internalID: -6594136934504354213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0261b2d51b57350800000000000000
+      internalID: 6013907891136110777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7077d7e12ec922d0800000000000000
+      internalID: -3302882206680649604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e995f449a103760800000000000000
+      internalID: 7435472209077444119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445db3339ed7f200800000000000000
+      internalID: 213884231132992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48320f35556f18110800000000000000
+      internalID: 1261560216981349252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4da8495121f1d0800000000000000
+      internalID: -3318834783040221285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcb7a1825e35bf0800000000000000
+      internalID: -336673586716882115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef444e145613c20800000000000000
+      internalID: 3184437745204657886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d58e0d04791700800000000000000
+      internalID: 511567632110311403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745253962ed83620800000000000000
+      internalID: 2754195429398828148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_SprteSheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845bd40b3054dc40800000000000000
+      internalID: 5536138056359957640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

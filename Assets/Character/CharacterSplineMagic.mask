@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharacterSplineMagic
+  m_Mask: 00000000000000000000000000000000000000000100000000000000010000000000000000000000000000000100000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body_Low
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_1_1_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_1_1_L/Finger_1_2_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_2_1_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_2_1_L/Finger_2_2_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_2_1_L/Finger_2_2_L/Finger_2_3_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_3_1_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_3_1_L/Finger_3_2_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_3_1_L/Finger_3_2_L/Finger_3_3_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_4_1_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_4_1_L/Finger_4_2_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_4_1_L/Finger_4_2_L/Finger_4_3_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_5_1_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_5_1_L/Finger_5_2_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Hand_L/Finger_5_1_L/Finger_5_2_L/Finger_5_3_L
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_L/Arm_Low_L/Shield
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_1_1_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_1_1_R/Finger_1_2_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_2_1_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_2_1_R/Finger_2_2_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_2_1_R/Finger_2_2_R/Finger_2_3_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_3_1_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_3_1_R/Finger_3_2_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_3_1_R/Finger_3_2_R/Finger_3_3_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_4_1_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_4_1_R/Finger_4_2_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_4_1_R/Finger_4_2_R/Finger_4_3_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_5_1_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_5_1_R/Finger_5_2_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Finger_5_1_R/Finger_5_2_R/Finger_5_3_R
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Arm_High_R/Arm_Low_R/Hnad_R/Weapon
+    m_Weight: 1
+  - m_Path: Body_Low/Body_High/Head
+    m_Weight: 1
+  - m_Path: Body_Low/Leg_High_L
+    m_Weight: 1
+  - m_Path: Body_Low/Leg_High_L/Leg_Low_L
+    m_Weight: 1
+  - m_Path: Body_Low/Leg_High_L/Leg_Low_L/Foot_L
+    m_Weight: 1
+  - m_Path: Body_Low/Leg_High_R
+    m_Weight: 1
+  - m_Path: Body_Low/Leg_High_R/Leg_Low_R
+    m_Weight: 1
+  - m_Path: Body_Low/Leg_High_R/Leg_Low_R/Foot_R
+    m_Weight: 1
+  - m_Path: Group54561
+    m_Weight: 1
+  - m_Path: IK Chain001
+    m_Weight: 1
+  - m_Path: IK Chain002
+    m_Weight: 1
+  - m_Path: Point001
+    m_Weight: 1
+  - m_Path: Point002
+    m_Weight: 1
