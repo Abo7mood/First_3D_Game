@@ -61,7 +61,7 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 ## License 📜:
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
-Story of this game 📚
+# Story of this game 📚
 
 The journey of creating this game began when I was 17 years old. At the time, I had no idea what game development even was. One day, while watching an entertainment video on YouTube, the creator casually mentioned that he had built a game. My reaction? "What? How did he build a game?" 🤯 I thought such feats required a NASA-level computer and 20 years of experience! 🚀
 
