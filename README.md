@@ -61,3 +61,18 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 ## License 📜:
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
+Story of this game 📚
+
+The journey of creating this game began when I was 17 years old. At the time, I had no idea what game development even was. One day, while watching an entertainment video on YouTube, the creator casually mentioned that he had built a game. My reaction? "What? How did he build a game?" 🤯 I thought such feats required a NASA-level computer and 20 years of experience! 🚀
+
+Intrigued, I started exploring more. Soon, a video about 2D games appeared in my recommendations. That was the turning point. I spent months diving into tutorials, experimenting, and creating small 2D games 🎮. It was a steep learning curve, but incredibly rewarding.
+
+Fast forward to 2021, I decided to take on a bigger challenge—a 3D game. This project took me on an insane journey spanning three years! 🌐 For the first year, I poured in eight months of relentless effort, building the foundations of the game. But life had other plans, and I had to pause for an entire year. ⌛
+
+In 2024, I picked it back up with renewed determination and finally completed the game. It took another month of dedication to polish and bring the vision to life. 🌟
+
+This game represents not just a technical achievement but also my growth as a developer. From discovering game development through YouTube to creating a full-fledged 3D game, it’s been a journey filled with learning, challenges, and immense satisfaction. 🔥
+
+# 🎮 Demo 🎮
+
+Unfortunately, there is no demo for this game.
