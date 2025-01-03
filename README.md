@@ -2,6 +2,21 @@
 
 This is a **3D game project** inspired by the **Solus game**. It is designed to be **hard** and **fun** to play, offering an immersive experience with challenging gameplay. The game is playable with both **keyboard and mouse** 🖱️ or a **controller** 🎮. It features dynamic **AI**, multiple abilities for both the player and enemies, and much more!
 
+![image](https://github.com/user-attachments/assets/66f27d47-17f6-47fd-9ab1-1941e3aa4f27)
+
+![image](https://github.com/user-attachments/assets/119f7df9-4140-4fa8-b277-e028441d2313)
+
+https://github.com/user-attachments/assets/06bc0836-a3d8-4141-bcd2-1247eea45c7b
+
+
+
+## 🎮 Gameplay Details 🎮
+
+- **Operating System**: Windows only 🖥️  
+- **Controls**: Mouse and Keyboard 🖱️⌨️
+- **Game Type**: 3D Game 🌍
+- 
+## 🌟 Key Features 🌟
 ## Key Features 🔑:
 
 - **Challenging Gameplay**: Inspired by the hard difficulty of the Solus game, this project offers a tough but rewarding experience. 💥
